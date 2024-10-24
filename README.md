@@ -11,3 +11,11 @@ Pelos poderes de Grayskull, eu tenho a força!
 3. git add _arquivo_
 4. git commit -m "fiz tal coisa"
 5. git push
+
+
+## Como configurar email e usuário
+
+```bash
+git config --global user.email "user"
+git config --global user.name "email"
+```
